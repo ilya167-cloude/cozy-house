@@ -1,0 +1,77 @@
+body {
+    margin: 0;
+   }
+.header_one{
+
+}
+.div_one{
+    
+}
+.span_one{
+    font-family: Georgia, "Times New Roman", Times, serif;
+    color: #f1cdb3;
+    font-size: 2rem;
+    }
+.span_two{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+    font-size: 1rem;
+}
+.body_one{
+    background-color: black;
+}
+.menu_one{
+
+}
+.li_one{
+    padding: 15px;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    color: rgb(255, 255, 255);
+display: inline;
+}
+.ul_one{
+    float: right; / Выравнивание по правому краю */
+}
+.main_one{
+
+}
+.h_one_one{
+    color: rgb(255, 255, 255);
+    font-family: Georgia, "Times New Roman", Times, serif;
+    padding-top:55px;
+    width: 320px;
+
+}
+.p_one{
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top:35px;
+    padding-right:1px;
+    width: 350px;
+    pading-bottom: 30px;
+} 
+.img_one{
+    float: right;}
+
+.a_one{
+    font-family: Georgia, "Times New Roman", Times, serif;
+    text-decoration: none;
+    color:rgb(0, 0, 0);
+    padding: 15px 45px;
+    padding-top: 15px;
+    padding-right: 45px;
+    padding-bottom: 15px;
+    padding-left: 45px;
+    background-color: #f1cdb3;
+    border-radius: 300px
+}
+.li_one:visited {
+    color: #f1cdb3; /* Цвет посещённой ссылки */
+    } 
+.li_one:hover {
+    color: #f1cdb3; /* Цвет ссылки при наведении на нее курсора мыши */  
+    text-decoration: underline; /* Добавляем подчеркивание */
+}
+.a_li{
+    
+}
